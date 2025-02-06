@@ -12,3 +12,7 @@ This is the updated Naive Bayes model. The dataset is now balanced. SMOT was use
 ## 3. random.forest.ipynb
 
 This is the a random forest classifier. Not quite as accurate as the updated naive bayes model
+
+## 4. logistic.regression.ipynb
+
+This is the a logistic regression model. 0.96 accuracy
