@@ -40,3 +40,20 @@ The model classifies email text into two categories: **Spam** or **Ham** based o
 
 ---
 
+equirements
+
+Install dependencies from the `requirements.txt` file:
+
+```bash
+pip install -r requirements.txt
+```
+## Usage
+
+- Open any of the ```.ipynb``` training notebooks.
+- Run the training pipeline.
+
+## Integration with SpamShield Backend
+
+- The trained model and vectorizer are loaded by the The trained model and vectorizer are loaded by the **Flask backend**.
+- Incoming text is vectorized and classified in real time.
+- Predictions and confidence scores are returned to the user interface.
