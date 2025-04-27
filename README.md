@@ -69,7 +69,7 @@ Logistic Regression also exhibited lower recall for spam detection, which is cri
 
 Thus, Naive Bayes provided the best overall trade-off between **accuracy, efficiency, and scalability** for real-time deployment.
 
-## requirements
+## Requirements
 
 Install dependencies from the `requirements.txt` file:
 
